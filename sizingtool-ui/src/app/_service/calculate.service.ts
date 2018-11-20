@@ -6,13 +6,14 @@ import {catchError} from 'rxjs/operators';
 @Injectable({
   providedIn: 'root'
 })
+
 export class CalculateService {
 
   constructor(private http: HttpClient) {
   }
 
   getResult(input: Object) {
-    return this.http.get('http://localhost:4200/app/config/configData.json');
+    return this.http.post('http://localhost:8080/getResult', input);
   }
 
   private handleError(error: HttpErrorResponse) {

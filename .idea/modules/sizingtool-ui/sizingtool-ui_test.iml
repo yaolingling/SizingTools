@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":sizingtool-ui:test" external.linked.project.path="$MODULE_DIR$/../../../sizingtool-ui" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="be.ordina.jworks" external.system.module.type="sourceSet" external.system.module.version="0.0.1-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output-test url="file://$MODULE_DIR$/../../../sizingtool-ui/out/test/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../sizingtool-ui/src/test" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="sizingtool-ui_main" />
+  </component>
+  <component name="TestModuleProperties" production-module="sizingtool-ui_main" />
+</module>

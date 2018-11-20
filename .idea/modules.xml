@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sizingtool.iml" filepath="$PROJECT_DIR$/.idea/modules/sizingtool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sizingtool-api/sizingtool-api.iml" filepath="$PROJECT_DIR$/.idea/modules/sizingtool-api/sizingtool-api.iml" group="sizingtool-api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sizingtool-api/sizingtool-api_main.iml" filepath="$PROJECT_DIR$/.idea/modules/sizingtool-api/sizingtool-api_main.iml" group="sizingtool-api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sizingtool-api/sizingtool-api_test.iml" filepath="$PROJECT_DIR$/.idea/modules/sizingtool-api/sizingtool-api_test.iml" group="sizingtool-api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sizingtool-ui/sizingtool-ui.iml" filepath="$PROJECT_DIR$/.idea/modules/sizingtool-ui/sizingtool-ui.iml" group="sizingtool-ui" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sizingtool-ui/sizingtool-ui_main.iml" filepath="$PROJECT_DIR$/.idea/modules/sizingtool-ui/sizingtool-ui_main.iml" group="sizingtool-ui" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sizingtool-ui/sizingtool-ui_test.iml" filepath="$PROJECT_DIR$/.idea/modules/sizingtool-ui/sizingtool-ui_test.iml" group="sizingtool-ui" />
+    </modules>
+  </component>
+</project>
